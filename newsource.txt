@@ -1,5 +1,6 @@
 <html>
 <head>
+<link rel="stylesheet" type="text/css" href="https://hackishanhack.github.io/css/code.css">
 <style>
 
 * {
