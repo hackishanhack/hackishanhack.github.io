@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <link rel="stylesheet" href="code.css">
+</head>
 <div id="header"></div>
 <div class="left"></div>
 <div class="stuff">
