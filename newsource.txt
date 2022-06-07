@@ -98,7 +98,7 @@ a {
 <div class="stuff">
   <br><br>
   <h1>Resume</h1>
-  <h2>Ishan Saxena ji</h2>
+  <h2>Ishan Saxena </h2>
   <hr />
   <br>
   <img src="C:\Users\HARIOM\Downloads\neversettle.png" alt="quote">
